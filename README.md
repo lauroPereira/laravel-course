@@ -1,65 +1,41 @@
-<p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400"></a></p>
+# Bereia on-line
 
-<p align="center">
-<a href="https://travis-ci.org/laravel/framework"><img src="https://travis-ci.org/laravel/framework.svg" alt="Build Status"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/dt/laravel/framework" alt="Total Downloads"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/v/laravel/framework" alt="Latest Stable Version"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/l/laravel/framework" alt="License"></a>
-</p>
+Projeto para submit dos lições do curso teológico Beréia
 
-## About Laravel
+## Guides & Processes
 
-Laravel is a web application framework with expressive, elegant syntax. We believe development must be an enjoyable and creative experience to be truly fulfilling. Laravel takes the pain out of development by easing common tasks used in many web projects, such as:
+---
 
-- [Simple, fast routing engine](https://laravel.com/docs/routing).
-- [Powerful dependency injection container](https://laravel.com/docs/container).
-- Multiple back-ends for [session](https://laravel.com/docs/session) and [cache](https://laravel.com/docs/cache) storage.
-- Expressive, intuitive [database ORM](https://laravel.com/docs/eloquent).
-- Database agnostic [schema migrations](https://laravel.com/docs/migrations).
-- [Robust background job processing](https://laravel.com/docs/queues).
-- [Real-time event broadcasting](https://laravel.com/docs/broadcasting).
+[Getting Started](Bereia%20on-line%201a3c144b62854728bf26633a91065942/Getting%20Started%20f4a5d52ea7f04489928bbc2f17b02f05.md)
 
-Laravel is accessible, powerful, and provides tools required for large, robust applications.
+[How to Deploy](Bereia%20on-line%201a3c144b62854728bf26633a91065942/How%20to%20Deploy%2054d42a270c1d4b8081739f5689ff49a4.md)
 
-## Learning Laravel
+[Useful Commands](Bereia%20on-line%201a3c144b62854728bf26633a91065942/Useful%20Commands%20e614df2456f9466eb66cb6d44c1f46fc.md)
 
-Laravel has the most extensive and thorough [documentation](https://laravel.com/docs) and video tutorial library of all modern web application frameworks, making it a breeze to get started with the framework.
+[Engineering Interviews](Bereia%20on-line%201a3c144b62854728bf26633a91065942/Engineering%20Interviews%20254e51036b644d0da51c7280688e6f62.md)
 
-If you don't feel like reading, [Laracasts](https://laracasts.com) can help. Laracasts contains over 1500 video tutorials on a range of topics including Laravel, modern PHP, unit testing, and JavaScript. Boost your skills by digging into our comprehensive video library.
+## Testing
 
-## Laravel Sponsors
+---
 
-We would like to extend our thanks to the following sponsors for funding Laravel development. If you are interested in becoming a sponsor, please visit the Laravel [Patreon page](https://patreon.com/taylorotwell).
+[How to QA ](Bereia%20on-line%201a3c144b62854728bf26633a91065942/How%20to%20QA%2006959bd814de4a2091518ee05f0afb15.md)
 
-### Premium Partners
+## Codebase
 
-- **[Vehikl](https://vehikl.com/)**
-- **[Tighten Co.](https://tighten.co)**
-- **[Kirschbaum Development Group](https://kirschbaumdevelopment.com)**
-- **[64 Robots](https://64robots.com)**
-- **[Cubet Techno Labs](https://cubettech.com)**
-- **[Cyber-Duck](https://cyber-duck.co.uk)**
-- **[Many](https://www.many.co.uk)**
-- **[Webdock, Fast VPS Hosting](https://www.webdock.io/en)**
-- **[DevSquad](https://devsquad.com)**
-- **[Curotec](https://www.curotec.com/services/technologies/laravel/)**
-- **[OP.GG](https://op.gg)**
-- **[CMS Max](https://www.cmsmax.com/)**
-- **[WebReinvent](https://webreinvent.com/?utm_source=laravel&utm_medium=github&utm_campaign=patreon-sponsors)**
-- **[Lendio](https://lendio.com)**
+---
 
-## Contributing
+[Code Reviews](Bereia%20on-line%201a3c144b62854728bf26633a91065942/Code%20Reviews%20d45540313ae74ace935ace42caca43ff.md)
 
-Thank you for considering contributing to the Laravel framework! The contribution guide can be found in the [Laravel documentation](https://laravel.com/docs/contributions).
+[Frontend](Bereia%20on-line%201a3c144b62854728bf26633a91065942/Frontend%208ce0ba67e57e4523a271e33b5bff63ab.md)
 
-## Code of Conduct
+[Backend](Bereia%20on-line%201a3c144b62854728bf26633a91065942/Backend%20f8df5d63e8d34f0daed33a936c2f9927.md)
 
-In order to ensure that the Laravel community is welcoming to all, please review and abide by the [Code of Conduct](https://laravel.com/docs/contributions#code-of-conduct).
+## Infrastructure
 
-## Security Vulnerabilities
+---
 
-If you discover a security vulnerability within Laravel, please send an e-mail to Taylor Otwell via [taylor@laravel.com](mailto:taylor@laravel.com). All security vulnerabilities will be promptly addressed.
+[AWS](Bereia%20on-line%201a3c144b62854728bf26633a91065942/AWS%2091c1b28f6c254accb625e460744f41a2.md)
 
-## License
+[Redis](Bereia%20on-line%201a3c144b62854728bf26633a91065942/Redis%205c62374fa59c4df1ac690ea69b178924.md)
 
-The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
+[CircleCI](Bereia%20on-line%201a3c144b62854728bf26633a91065942/CircleCI%20400c322ae49e4c20827edbc6d65c0ebd.md)
